@@ -1,5 +1,14 @@
 1.0		-	Iniital Release
-1.0.1	-	Add category for mod HullCam VDS Continued
-		-	Add subcategory for Separators and Retros
-		-	Added some missing country tags, still WIP
-	
+1.0.1	-	Update 1.0.1 - The Solid Update
+			Add category for mod HullCam VDS Continued
+			Added some missing Country bulkheads (on going work)
+			Creation of new subcategories for 'Solids'.  These subcategories are defined by the vacuum thrust of the engines.
+			Solid Engine Subcategories
+			Tiny Solids - Less than 10 kN
+			Small Solids = 10-100 kN
+			Medium Solids = 100 - 500 kN
+			Large Solids = 500 - 1000 kN
+			Extra Large Solids = More than 1000 kN
+			Removed all FINAL patches and a general tidy up of the code
+1.0.2	-	I have relabled "Russia" to "USSR" (Bong_Cat credit)
+			

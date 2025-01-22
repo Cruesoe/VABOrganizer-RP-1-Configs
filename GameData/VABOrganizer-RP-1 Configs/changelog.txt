@@ -1,14 +1,22 @@
 1.0		-	Iniital Release
+
 1.0.1	-	Update 1.0.1 - The Solid Update
 			Add category for mod HullCam VDS Continued
 			Added some missing Country bulkheads (on going work)
 			Creation of new subcategories for 'Solids'.  These subcategories are defined by the vacuum thrust of the engines.
-			Solid Engine Subcategories
-			Tiny Solids - Less than 10 kN
-			Small Solids = 10-100 kN
-			Medium Solids = 100 - 500 kN
-			Large Solids = 500 - 1000 kN
-			Extra Large Solids = More than 1000 kN
+			Solid Engine Subcategories:
+				Tiny Solids - Less than 10 kN
+				Small Solids = 10-100 kN
+				Medium Solids = 100 - 500 kN
+				Large Solids = 500 - 1000 kN
+				Extra Large Solids = More than 1000 kN
 			Removed all FINAL patches and a general tidy up of the code
-1.0.2	-	I have relabled "Russia" to "USSR" (Bong_Cat credit)
-			
+
+1.0.2	-	Changed "Russia" to "USSR" to be more accurate of the early space race (Bong_Cat)
+			Added Russian localisation (Bong_Cat)
+			Thruster and Small engines subcategory has stuff in it now.
+			Removed Early Rocketry subcategory as there was not enough to justify it, folded into Orbital Rocketry
+			Added subcategory for Smart Parts mod
+			Split Orbital Rocketry into Single and Multi Ignition subcategories (still WIP)
+			Split RCS subcategory into Tiny, Small, Medium and Large RCS
+

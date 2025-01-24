@@ -21,4 +21,4 @@
 			Split RCS subcategory into Tiny, Small, Medium and Large RCS
 
 1.0.3		Updates to Communications, split between Omni Antennas and Directional Antennas
-
+			Corrected Altair to USA

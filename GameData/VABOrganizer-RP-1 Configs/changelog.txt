@@ -22,3 +22,6 @@
 
 1.0.3		Updates to Communications, split between Omni Antennas and Directional Antennas
 			Corrected Altair to USA
+			Added TV Camera to transmitable science
+			Added more engines to the Multiple Ignition subcategory
+			Lots of little Engine category adjustments

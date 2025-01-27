@@ -25,3 +25,4 @@
 			Added TV Camera to transmitable science
 			Added more engines to the Multiple Ignition subcategory
 			Lots of little Engine category adjustments
+			Update to RCS, more subcatagories based on RCS size

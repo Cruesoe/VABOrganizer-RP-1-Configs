@@ -26,3 +26,5 @@
 			Added more engines to the Multiple Ignition subcategory
 			Lots of little Engine category adjustments
 			Update to RCS, more subcatagories based on RCS size
+
+1.0.4		Modular Launch Pads updated

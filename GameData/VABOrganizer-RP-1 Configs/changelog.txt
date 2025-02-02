@@ -28,3 +28,6 @@
 			Update to RCS, more subcatagories based on RCS size
 
 1.0.4		Modular Launch Pads updated
+			Moved more engines to Multi-Ignition subcatagory
+			Added more missing Country bulkheads
+			Updates to Russian localisation

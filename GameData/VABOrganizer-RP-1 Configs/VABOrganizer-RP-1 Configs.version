@@ -1,0 +1,13 @@
+{
+	"NAME": "VAB Organizer - RP-1 Configs",
+	"URL": "https://raw.githubusercontent.com/Cruesoe/VABOrganizer-RP-1-Configs/main/GameData/VABOrganizer-RP-1%20Configs/VABOrganizer-RP-1%20Configs.version",
+	"DOWNLOAD": "https://spacedock.info/mod/3801",
+	"GITHUB": {
+		"USERNAME": "Cruesoe",
+		"REPOSITORY": "VABOrganizer-RP-1-Configs"
+	},
+	"VERSION": { "MAJOR": 261011, "MINOR": 0, "PATCH": 0 },
+	"KSP_VERSION": { "MAJOR": 1, "MINOR": 12, "PATCH": 5 },
+	"KSP_VERSION_MIN": { "MAJOR": 1, "MINOR": 12, "PATCH": 5 },
+	"KSP_VERSION_MAX": { "MAJOR": 1, "MINOR": 12, "PATCH": 5 }
+}
